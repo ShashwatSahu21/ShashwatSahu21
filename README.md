@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,50:1a0a2e,100:00d4ff&height=220&section=header&text=SHASHWAT%20SAHU&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Physical%20AI%20Research&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+![Header](./github-header-banner.png)
 
 <br>
 
