@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%F0%9F%A4%96+Building+Machines+That+Think+%26+Move;%F0%9F%A7%A0+Neural+Signals+%E2%86%92+Robotic+Actions;%E2%9A%A1+94%25+Intent+Detection+%7C+%3C30ms+Latency" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%A4%96+Building+Machines+That+Think+%26+Move" alt="Typing SVG" /></a>
 
 <br><br>
 
