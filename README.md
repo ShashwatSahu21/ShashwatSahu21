@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%A4%96+Building+Machines+That+Think+%26+Move" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=%F0%9F%A4%96+Building+Machines+That+Think+%26+Move" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -78,9 +78,9 @@ Fun.Fact:            Won "Student Innovator of the Year" from NITI Aayog ATL Lab
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Tech%20Arsenal&fontSize=50&color=0:0a0a1a,50:1a0a2e,100:00d4ff&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-| [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=AI+%2F+ML+%26+Robotics&color=00D4FF&center=true&width=400)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Dev+Tools+%26+Platforms&color=00D4FF&center=true&width=400)](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=AI+%2F+ML+%26+Robotics&color=00D4FF&center=true&width=400)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Dev+Tools+%26+Platforms&color=00D4FF&center=true&width=400)](https://git.io/typing-svg) |
 |:---:|:---:|
-| <p align="center"><strong>🧠 Machine Learning & AI</strong><br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /><br>TensorFlow · PyTorch · Scikit-learn · Keras<br>OpenCV · YOLO · CNN/RNN · Gen-AI</p><br><p align="center"><strong>🤖 Robotics & Embedded</strong><br><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros" /><br>ROS2 · Arduino · Raspberry Pi · Gazebo<br>PyBullet · Webots · LIDAR · PLC · Embedded C</p><br><p align="center"><strong>💻 Programming</strong><br><img src="https://skillicons.dev/icons?i=python,cpp,c,js" /><br>Python · C++ · C · Embedded C · JavaScript</p> | <p align="center"><strong>🛠️ Tools & Platforms</strong><br><img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" /><br>Git · GitHub · VS Code · Jupyter · Anaconda</p><br><p align="center"><strong>🌐 Web & Data</strong><br><img src="https://skillicons.dev/icons?i=html,css,mysql,react" /><br>HTML/CSS · MySQL · React · FastAPI</p><br><p align="center"><strong>🎨 Design & Simulation</strong><br><img src="https://skillicons.dev/icons?i=blender" /><br>Fusion 360 · Autodesk · Gazebo · PyBullet<br>Webots · 3D Printing</p> |
+| <p align="center"><strong>🧠 Machine Learning & AI</strong><br><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> &nbsp;<img src="./Hugging_Face_logo" height="48" alt="Hugging Face" /><br>TensorFlow · PyTorch · Scikit-learn · Keras<br>OpenCV · YOLO · CNN/RNN · Hugging Face · Gen-AI</p><br><p align="center"><strong>🤖 Robotics & Embedded</strong><br><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros" /><br>ROS2 · Arduino · Raspberry Pi · Gazebo<br>PyBullet · Webots · LIDAR · PLC · Embedded C</p><br><p align="center"><strong>💻 Programming</strong><br><img src="https://skillicons.dev/icons?i=python,cpp,c,js" /><br>Python · C++ · C · Embedded C · JavaScript</p> | <p align="center"><strong>🛠️ Tools & Platforms</strong><br><img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" /><br>Git · GitHub · VS Code · Jupyter · Anaconda</p><br><p align="center"><strong>🌐 Web & Data</strong><br><img src="https://skillicons.dev/icons?i=html,css,mysql,react" /><br>HTML/CSS · MySQL · React · FastAPI</p><br><p align="center"><strong>🎨 Design & Simulation</strong><br><img src="https://skillicons.dev/icons?i=blender" /> &nbsp;<img src="./utodesk-fusion60-logo-vector-png_340x.webp" height="48" alt="Fusion 360" /><br>Fusion 360 · Autodesk · Gazebo · PyBullet<br>Webots · 3D Printing</p> |
 
 ---
 
@@ -186,7 +186,7 @@ Robotics Cell, BIT — Club Operations Lead & Technical Team Manager (Jan 2024 �
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Education&fontSize=45&color=0:0a0a1a,50:1a0a2e,100:00d4ff&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-| [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Institution&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Degree+%26+Duration&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&lines=Highlights&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Institution&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Degree+%26+Duration&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Highlights&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) |
 |:---:|:---:|:---:|
 | **[Bangalore Institute of Technology](https://www.bit-bangalore.edu.in/)**, Bengaluru | BE, Robotics & Artificial Intelligence<br>2023 – 2027 | • Built neural-augmented 6-DOF robotic arm<br>• Led Robotics Cell as Operations Lead<br>• Active in hackathons & aerothons |
 | **Campion School**, Bhopal | Senior Secondary — PCM<br>2020 – 2022 | • Strong foundation in Physics, Chemistry & Mathematics |
