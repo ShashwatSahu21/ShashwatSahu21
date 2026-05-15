@@ -186,10 +186,10 @@ Robotics Cell, BIT — Club Operations Lead & Technical Team Manager (Jan 2024 �
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Education&fontSize=45&color=0:0a0a1a,50:1a0a2e,100:00d4ff&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-| [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Institution&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Degree+%26+Duration&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Credentials&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) |
+| [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Degree&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Institution&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Highlights&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) |
 |:---:|:---:|:---:|
-| **[Bangalore Institute of Technology](https://www.bit-bangalore.edu.in/)**, Bengaluru | BE, Robotics & Artificial Intelligence<br>2023 – 2027 | • Affiliated to Visvesvaraya Technological University (VTU)<br>• Recognized by AICTE & Accredited by NBA |
-| **[Campion School](https://en.wikipedia.org/wiki/Campion_School,_Bhopal)**, Bhopal | Senior Secondary — PCM<br>2020 – 2022 | • Academic rigor equivalent to international credentials<br>• Strong global alumni network |
+| **BE, Robotics & Artificial Intelligence** | [Bangalore Institute of Technology](https://www.bit-bangalore.edu.in/), Bengaluru · 2023–2027 | Affiliated to [VTU](https://vtu.ac.in/) · Recognized by [AICTE](https://www.aicte-india.org/) & Accredited by [NBA](https://www.nbaind.org/) |
+| **Senior Secondary — PCM** | [Campion School](https://en.wikipedia.org/wiki/Campion_School,_Bhopal), Bhopal · 2020–2022 | [CBSE](https://www.cbse.gov.in/) Board Affiliation · Equivalence to [UK A-Levels](https://en.wikipedia.org/wiki/GCE_Advanced_Level), [US High School Diploma](https://en.wikipedia.org/wiki/High_school_diploma) & [Japan Upper Secondary](https://en.wikipedia.org/wiki/Secondary_education_in_Japan) · Global Alumni Network |
 
 ---
 
