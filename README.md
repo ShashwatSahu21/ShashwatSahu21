@@ -49,7 +49,7 @@
 System.Profile ver. 6.0.1:
 ----------------------------------------------------------------------------------------
 Username:            Shashwat Sahu
-WhoAmI:              Robotics Engineer | AI Systems | Physical AI Researcher
+WhoAmI:              Robotics Engineer | AI Systems | Physical AI
 Shell:               bash / zsh
 Editor:              VS Code
 Pronouns:            He/Him
@@ -57,7 +57,6 @@ Location:            Bengaluru, India
 
 Languages:           Python, C++, C, Embedded C, JavaScript
 Core.Domains:        Physical AI · Embedded ML · Robotic Manipulation · Signal Processing
-Currently.Building:  Neural-Augmented 6-DOF Robotic Manipulator (94% accuracy, <30ms latency)
 Learning:            Advanced ROS2 · Sim-to-Real Transfer · Reinforcement Learning for Robotics
 
 Special.Interests:
@@ -66,7 +65,6 @@ Special.Interests:
 
 Education:           BE, Robotics & Artificial Intelligence
                      Bangalore Institute of Technology (2023 – 2027)
-Current.Role:        AI & Robotics Operations Manager Intern @ Incanto Dynamics
 
 Fun.Fact:            Won "Student Innovator of the Year" from NITI Aayog ATL Labs 🏆
 ```
