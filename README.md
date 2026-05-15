@@ -167,6 +167,7 @@ Robotics Cell, BIT — Club Operations Lead & Technical Team Manager (Jan 2024 �
    → Next.js 16 (App Router) · React 19 · Supabase · Leaflet
    Links:
      - GitHub: https://github.com/ShashwatSahu21/RAVR-
+     - Vercel: https://ravr.vercel.app
 ```
 
 ---
