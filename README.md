@@ -146,20 +146,27 @@ Robotics Cell, BIT — Club Operations Lead & Technical Team Manager (Jan 2024 �
    Links:
      - GitHub: https://github.com/ShashwatSahu21/synapticx-6x
 
-💰 Loan Genie — The Great Bengaluru Hackathon Project
-   AI-powered loan assessment platform with multilingual support
+💰 Finity — Premium AI Financial Companion
+   FinTech · AI Guidance · Wealth Projection
    ─────────────────────────────────────────────────────────
-   → React + FastAPI + ML (Random Forest Classifier)
-   → 3D avatars, Sarvam AI speech services, Groq LLM
+   → Production-grade financial platform with a minimalist Notion-inspired UI
+   → AI Financial Coach providing context-aware guidance on Indian tax/investments
+   → Advanced Investment Simulator with probabilistic Monte Carlo visualizations
+   → Smart Budgeting (50/30/20) with automated expense categorization
+   → React 18 · FastAPI · Scikit-learn · Framer Motion
    Links:
-     - GitHub: https://github.com/ShashwatSahu21/Loan-Genie
+     - GitHub: https://github.com/ShashwatSahu21/Finity-
 
-📊 YUVA ROI Calculator
-   Youth brand health scoring and revenue impact calculator
+🦅 RAVR — Hyperlocal Cultural Radar
+   Event Discovery · Real-time Maps · UX Design
    ─────────────────────────────────────────────────────────
-   → TypeScript · Deployed on Vercel
+   → "Spotify for events" platform centered on urban culture and nightlife
+   → Interactive city radar map for real-time discovery in Bangalore
+   → Supabase-powered real-time synchronization and "Vibe Match" scoring
+   → High-impact UI featuring magnetic navigation and custom cursor trails
+   → Next.js 16 (App Router) · React 19 · Supabase · Leaflet
    Links:
-     - GitHub: https://github.com/ShashwatSahu21/YUVA_ROI_CALCULATOR
+     - GitHub: https://github.com/ShashwatSahu21/RAVR-
 ```
 
 ---
