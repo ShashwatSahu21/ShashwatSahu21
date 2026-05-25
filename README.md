@@ -130,10 +130,10 @@ Education:           BE, Robotics & Artificial Intelligence
       🔹
     </td>
     <td width="48%" align="left" valign="top">
-      <strong>Artificial Intelligence Intern</strong><br>
-      <em><a href="https://1stop.ai/">1Stop.ai</a></em><br>
-      <code>Apr 2024 – Jun 2024</code> &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/1W1QqWaOOhBlOH0WjDgjs2MTDqJ0SEF17/view?usp=drive_link">📜 Certificate</a><br>
-      <small>Trained, evaluated, and benchmarked machine learning models, integrating AI features into production workflows via API endpoints.</small>
+      <strong>Robotics Intern</strong><br>
+      <em><a href="https://myequation.in">My Equation</a></em><br>
+      <code>45-Day Program</code><br>
+      <small>Completed intensive hands-on training and projects in robotics automation, software simulation, and ROS integration.</small>
     </td>
   </tr>
   
@@ -149,15 +149,38 @@ Education:           BE, Robotics & Artificial Intelligence
   <!-- Item 3: Left Aligned -->
   <tr>
     <td width="48%" align="right" valign="top">
-      <strong>Club Operations Lead & Technical Team Manager</strong><br>
-      <em>Robotics Cell, BIT</em><br>
-      <code>Jan 2024 – Jan 2025</code><br>
-      <small>Directed student robotics teams through physical bot build cycles, managed hackathon participations, and mentored juniors on embedded systems.</small>
+      <strong>Artificial Intelligence Intern</strong><br>
+      <em><a href="https://1stop.ai/">1Stop.ai</a></em><br>
+      <code>Apr 2024 – Jun 2024</code> &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/1W1QqWaOOhBlOH0WjDgjs2MTDqJ0SEF17/view?usp=drive_link">📜 Certificate</a><br>
+      <small>Trained, evaluated, and benchmarked machine learning models, integrating AI features into production workflows via API endpoints.</small>
     </td>
     <td width="4%" align="center" valign="top">
       🔹
     </td>
     <td width="48%" align="left" valign="top"></td>
+  </tr>
+  
+  <!-- Line Connector 3 -->
+  <tr>
+    <td width="48%"></td>
+    <td width="4%" align="center" valign="top">
+      │<br>│
+    </td>
+    <td width="48%"></td>
+  </tr>
+  
+  <!-- Item 4: Right Aligned -->
+  <tr>
+    <td width="48%" align="right" valign="top"></td>
+    <td width="4%" align="center" valign="top">
+      🔹
+    </td>
+    <td width="48%" align="left" valign="top">
+      <strong>Club Operations Lead & Technical Team Manager</strong><br>
+      <em>Robotics Cell, BIT</em><br>
+      <code>Jan 2024 – Jan 2025</code><br>
+      <small>Directed student robotics teams through physical bot build cycles, managed hackathon participations, and mentored juniors on embedded systems.</small>
+    </td>
   </tr>
 </table>
 
