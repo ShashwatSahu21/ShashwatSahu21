@@ -100,13 +100,13 @@ Education:           BE, Robotics & Artificial Intelligence
 </p>
 
 > 🔹 **AI & Robotics Operations Manager Intern**
-> &nbsp;&nbsp;&nbsp;&nbsp;*Incanto Dynamics Pvt. Ltd.* &nbsp;|&nbsp; `Jan 2026 – Present`
+> &nbsp;&nbsp;&nbsp;&nbsp;*[Incanto Dynamics Pvt. Ltd.](https://incantodynamics.com/)* &nbsp;|&nbsp; `Jan 2026 – Present` &nbsp;|&nbsp; [📄 Offer Letter](https://drive.google.com/file/d/1mtCPvItHqcEh5XkzeDIuBOWu-rlObMK4/view?usp=sharing)
 > &nbsp;&nbsp;&nbsp;&nbsp;↳ *Leading on-ground deployment, testing, and integration of industrial robotic systems and AI-driven operations within active factory environments.*
 >
 > <br>
 >
 > 🔹 **Artificial Intelligence Intern**
-> &nbsp;&nbsp;&nbsp;&nbsp;*1Stop.ai* &nbsp;|&nbsp; `Apr 2024 – Jun 2024`
+> &nbsp;&nbsp;&nbsp;&nbsp;*[1Stop.ai](https://1stop.ai/)* &nbsp;|&nbsp; `Apr 2024 – Jun 2024`
 > &nbsp;&nbsp;&nbsp;&nbsp;↳ *Trained, evaluated, and benchmarked machine learning models, integrating AI features into production workflows via API endpoints.*
 >
 > <br>
