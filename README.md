@@ -128,45 +128,38 @@ Robotics Cell, BIT — Club Operations Lead & Technical Team Manager (Jan 2024 �
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Featured%20Projects&fontSize=45&color=0:0a0a1a,50:1a0a2e,100:00d4ff&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-```csharp
-// Featured Projects & Open-Source Work
-// ------------------------------------------------------------
+### 🦾 [SynaptIArm-6X](https://github.com/ShashwatSahu21/synapticx-6x): Neural-Augmented 6-DOF Robotic Manipulator
+`Physical AI` &nbsp;•&nbsp; `EMG/EEG` &nbsp;•&nbsp; `Embedded ML`
 
-🦾 SynaptIArm-6X: Neural-Augmented 6-DOF Robotic Manipulator
-   Physical AI · EMG/EEG · Embedded ML
-   ─────────────────────────────────────────────────────────
-   → Engineered neural augmentation for robotic manipulation through
-     bio-electrical signals (EMG/EEG) with ML-based real-time interpretation
-   → 94% intent-detection accuracy | <30ms inference latency
-   → Signal filtering: Band-pass + Notch, RMS, MAV, ZCR feature extraction
-   → Arduino servo-control via serial comm for autonomous pick-and-place
-   → 3D-printed full 6-DOF assembly with inverse kinematics
-   Links:
-     - GitHub: https://github.com/ShashwatSahu21/synapticx-6x
+*   **Neural Interpretation:** Engineered neural augmentation for robotic manipulation through bio-electrical signals (EMG/EEG) with ML-based real-time interpretation.
+*   **High Performance:** Achieved 94% intent-detection accuracy with `<30ms` inference latency.
+*   **Signal Processing:** Implemented Band-pass + Notch filtering, RMS, MAV, and ZCR feature extraction.
+*   **Physical Automation:** Developed Arduino servo-control via serial communication for autonomous pick-and-place with a 3D-printed full 6-DOF assembly using inverse kinematics.
+*   **Links:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShashwatSahu21/synapticx-6x)
 
-💰 Finity — Premium AI Financial Companion
-   FinTech · AI Guidance · Wealth Projection
-   ─────────────────────────────────────────────────────────
-   → Production-grade financial platform with a minimalist Notion-inspired UI
-   → AI Financial Coach providing context-aware guidance on Indian tax/investments
-   → Advanced Investment Simulator with probabilistic Monte Carlo visualizations
-   → Smart Budgeting (50/30/20) with automated expense categorization
-   → React 18 · FastAPI · Scikit-learn · Framer Motion
-   Links:
-     - GitHub: https://github.com/ShashwatSahu21/Finity-
+<br>
 
-🦅 RAVR — Hyperlocal Cultural Radar
-   Event Discovery · Real-time Maps · UX Design
-   ─────────────────────────────────────────────────────────
-   → "Spotify for events" platform centered on urban culture and nightlife
-   → Interactive city radar map for real-time discovery in Bangalore
-   → Supabase-powered real-time synchronization and "Vibe Match" scoring
-   → High-impact UI featuring magnetic navigation and custom cursor trails
-   → Next.js 16 (App Router) · React 19 · Supabase · Leaflet
-   Links:
-     - GitHub: https://github.com/ShashwatSahu21/RAVR-
-     - Vercel: https://ravr.vercel.app
-```
+### 💰 [Finity](https://github.com/ShashwatSahu21/Finity-) — Premium AI Financial Companion
+`FinTech` &nbsp;•&nbsp; `AI Guidance` &nbsp;•&nbsp; `Wealth Projection`
+
+*   **Production-Grade Platform:** Designed a financial platform with a minimalist, Notion-inspired user interface.
+*   **AI Financial Coach:** Provides context-aware guidance on Indian taxation, investments, and budgeting.
+*   **Advanced Simulation:** Built an investment simulator with probabilistic Monte Carlo visualizations.
+*   **Smart Budgeting:** Features a 50/30/20 budget framework with automated expense categorization.
+*   **Tech Stack:** React 18 · FastAPI · Scikit-learn · Framer Motion.
+*   **Links:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShashwatSahu21/Finity-)
+
+<br>
+
+### 🦅 [RAVR](https://github.com/ShashwatSahu21/RAVR-) — Hyperlocal Cultural Radar
+`Event Discovery` &nbsp;•&nbsp; `Real-time Maps` &nbsp;•&nbsp; `UX Design`
+
+*   **Urban Culture Radar:** A "Spotify for events" platform centered on urban culture and nightlife in Bangalore with interactive city radar maps.
+*   **Real-Time Sync:** Features Supabase-powered real-time synchronization and custom "Vibe Match" scoring.
+*   **Premium UX:** Implemented a high-impact UI with magnetic navigation and custom cursor trails.
+*   **Tech Stack:** Next.js 16 (App Router) · React 19 · Supabase · Leaflet.
+*   **Links:** [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShashwatSahu21/RAVR-) &nbsp; [![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://ravr.vercel.app)
+
 
 ---
 
