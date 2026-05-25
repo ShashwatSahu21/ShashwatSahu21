@@ -99,21 +99,67 @@ Education:           BE, Robotics & Artificial Intelligence
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Experience&fontSize=45&color=0:0a0a1a,50:1a0a2e,100:00d4ff&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-> 🔹 **AI & Robotics Operations Manager Intern**
-> &nbsp;&nbsp;&nbsp;&nbsp;*[Incanto Dynamics Pvt. Ltd.](https://incantodynamics.com/)* &nbsp;|&nbsp; `Jan 2026 – Present` &nbsp;|&nbsp; [📄 Offer Letter](https://drive.google.com/file/d/1mtCPvItHqcEh5XkzeDIuBOWu-rlObMK4/view?usp=sharing)
-> &nbsp;&nbsp;&nbsp;&nbsp;↳ *Leading on-ground deployment, testing, and integration of industrial robotic systems and AI-driven operations within active factory environments.*
->
-> <br>
->
-> 🔹 **Artificial Intelligence Intern**
-> &nbsp;&nbsp;&nbsp;&nbsp;*[1Stop.ai](https://1stop.ai/)* &nbsp;|&nbsp; `Apr 2024 – Jun 2024` &nbsp;|&nbsp; [📜 Certificate](https://drive.google.com/file/d/1W1QqWaOOhBlOH0WjDgjs2MTDqJ0SEF17/view?usp=drive_link)
-> &nbsp;&nbsp;&nbsp;&nbsp;↳ *Trained, evaluated, and benchmarked machine learning models, integrating AI features into production workflows via API endpoints.*
->
-> <br>
->
-> 🔹 **Club Operations Lead & Technical Team Manager**
-> &nbsp;&nbsp;&nbsp;&nbsp;*Robotics Cell, BIT* &nbsp;|&nbsp; `Jan 2024 – Jan 2025`
-> &nbsp;&nbsp;&nbsp;&nbsp;↳ *Directed student robotics teams through physical bot build cycles, managed hackathon participations, and mentored juniors on embedded systems.*
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <!-- Item 1: Left Aligned -->
+  <tr>
+    <td width="48%" align="right" valign="top">
+      <strong>AI & Robotics Operations Manager Intern</strong><br>
+      <em><a href="https://incantodynamics.com/">Incanto Dynamics Pvt. Ltd.</a></em><br>
+      <code>Jan 2026 – Present</code> &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/1mtCPvItHqcEh5XkzeDIuBOWu-rlObMK4/view?usp=sharing">📄 Offer Letter</a><br>
+      <small>Leading on-ground deployment, testing, and integration of industrial robotic systems and AI-driven operations within active factory environments.</small>
+    </td>
+    <td width="4%" align="center" valign="top">
+      🔹
+    </td>
+    <td width="48%" align="left" valign="top"></td>
+  </tr>
+  
+  <!-- Line Connector 1 -->
+  <tr>
+    <td width="48%"></td>
+    <td width="4%" align="center" valign="top">
+      │<br>│
+    </td>
+    <td width="48%"></td>
+  </tr>
+  
+  <!-- Item 2: Right Aligned -->
+  <tr>
+    <td width="48%" align="right" valign="top"></td>
+    <td width="4%" align="center" valign="top">
+      🔹
+    </td>
+    <td width="48%" align="left" valign="top">
+      <strong>Artificial Intelligence Intern</strong><br>
+      <em><a href="https://1stop.ai/">1Stop.ai</a></em><br>
+      <code>Apr 2024 – Jun 2024</code> &nbsp;|&nbsp; <a href="https://drive.google.com/file/d/1W1QqWaOOhBlOH0WjDgjs2MTDqJ0SEF17/view?usp=drive_link">📜 Certificate</a><br>
+      <small>Trained, evaluated, and benchmarked machine learning models, integrating AI features into production workflows via API endpoints.</small>
+    </td>
+  </tr>
+  
+  <!-- Line Connector 2 -->
+  <tr>
+    <td width="48%"></td>
+    <td width="4%" align="center" valign="top">
+      │<br>│
+    </td>
+    <td width="48%"></td>
+  </tr>
+  
+  <!-- Item 3: Left Aligned -->
+  <tr>
+    <td width="48%" align="right" valign="top">
+      <strong>Club Operations Lead & Technical Team Manager</strong><br>
+      <em>Robotics Cell, BIT</em><br>
+      <code>Jan 2024 – Jan 2025</code><br>
+      <small>Directed student robotics teams through physical bot build cycles, managed hackathon participations, and mentored juniors on embedded systems.</small>
+    </td>
+    <td width="4%" align="center" valign="top">
+      🔹
+    </td>
+    <td width="48%" align="left" valign="top"></td>
+  </tr>
+</table>
 
 
 ---
