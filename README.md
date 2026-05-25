@@ -114,15 +114,6 @@ Education:           BE, Robotics & Artificial Intelligence
     <td width="48%" align="left" valign="top"></td>
   </tr>
   
-  <!-- Line Connector 1 -->
-  <tr>
-    <td width="48%"></td>
-    <td width="4%" align="center" valign="top">
-      │<br>│
-    </td>
-    <td width="48%"></td>
-  </tr>
-  
   <!-- Item 2: Right Aligned -->
   <tr>
     <td width="48%" align="right" valign="top"></td>
@@ -137,15 +128,6 @@ Education:           BE, Robotics & Artificial Intelligence
     </td>
   </tr>
   
-  <!-- Line Connector 2 -->
-  <tr>
-    <td width="48%"></td>
-    <td width="4%" align="center" valign="top">
-      │<br>│
-    </td>
-    <td width="48%"></td>
-  </tr>
-  
   <!-- Item 3: Left Aligned -->
   <tr>
     <td width="48%" align="right" valign="top">
@@ -158,15 +140,6 @@ Education:           BE, Robotics & Artificial Intelligence
       🔹
     </td>
     <td width="48%" align="left" valign="top"></td>
-  </tr>
-  
-  <!-- Line Connector 3 -->
-  <tr>
-    <td width="48%"></td>
-    <td width="4%" align="center" valign="top">
-      │<br>│
-    </td>
-    <td width="48%"></td>
   </tr>
   
   <!-- Item 4: Right Aligned -->
