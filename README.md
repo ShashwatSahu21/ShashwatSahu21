@@ -91,7 +91,7 @@ Fun.Fact:            Won "Student Innovator of the Year" from NITI Aayog ATL Lab
 
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ShashwatSahu21&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&locale=en&bg_color=0a0a1a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&border_color=1a0a2e" alt="Shashwat's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatSahu21&theme=tokyonight&background=0a0a1a&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&border=1a0a2e" alt="Shashwat's Streak" />
+  <img width=390 src="https://streak-stats.demolab.com/?user=ShashwatSahu21&theme=tokyonight&background=0a0a1a&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&border=1a0a2e" alt="Shashwat's Streak" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ShashwatSahu21&theme=tokyonight&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en&bg_color=0a0a1a&title_color=00d4ff&text_color=ffffff&border_color=1a0a2e" alt="Most Used Languages" />
 </div>
 
