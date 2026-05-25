@@ -34,7 +34,7 @@
   </a>
 </p>
 
-📍 Bengaluru, India &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📧 shashwatsahu2103@gmail.com
+📍 Bengaluru, India &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📧 shashwatsahu2103@gmail.com
 
 </div>
 
@@ -223,7 +223,7 @@ Education:           BE, Robotics & Artificial Intelligence
 | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Degree&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Institution&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Orbitron&lines=Credentials+%26+Highlights&color=00D4FF&center=true&width=300)](https://git.io/typing-svg) |
 |:---:|:---:|:--- |
 | **BE, Robotics & Artificial Intelligence** | [Bangalore Institute of Technology](https://www.bit-bangalore.edu.in/), Bengaluru<br>2023 – 2027 | • Affiliated to [VTU](https://vtu.ac.in/) (Visvesvaraya Technological University)<br>• Approved by [AICTE](https://www.aicte-india.org/) & Accredited by [NBA](https://www.nbaind.org/) (Tier-I / Washington Accord Signatory)<br>• **Equivalency:** Equivalent to a 4-Year [B.S. in Engineering](https://en.wikipedia.org/wiki/Bachelor_of_Science_in_Engineering) (US/Canada) and [B.Eng. Honours](https://en.wikipedia.org/wiki/Bachelor_of_Engineering) (UK/Europe/Australia) |
-| **Senior Secondary (K-12) — PCM** | [Campion School](https://en.wikipedia.org/wiki/Campion_School,_Bhopal), Bhopal<br>2020 – 2022 | • **Jesuit Institution** (Society of Jesus) — Globally recognized for academic excellence<br>• [CBSE](https://www.cbse.gov.in/) Affiliated \| Equivalence to [UK A-Levels](https://en.wikipedia.org/wiki/GCE_Advanced_Level), [US Diploma](https://en.wikipedia.org/wiki/High_school_diploma), & [Japan Upper Secondary](https://en.wikipedia.org/wiki/Secondary_education_in_Japan)<br>• Strong Global Alumni Network (COBA) |
+| **Senior Secondary (K-12) — PCM** | [Campion School](https://en.wikipedia.org/wiki/Campion_School,_Bhopal), Bhopal<br>2020 – 2022 | • **Jesuit Institution** (Society of Jesus) — Globally recognized for academic excellence<br>• [CBSE](https://www.cbse.gov.in/) Affiliated &nbsp;\|&nbsp; **Equivalency:** Equivalent to [UK A-Levels](https://en.wikipedia.org/wiki/GCE_Advanced_Level), [US High School Diploma](https://en.wikipedia.org/wiki/High_school_diploma), and [Japan Upper Secondary](https://en.wikipedia.org/wiki/Secondary_education_in_Japan)<br>• Strong Global Alumni Network (COBA) |
 
 ---
 
