@@ -195,11 +195,8 @@ Achievements.Log ver. 6.0.5:
 ----------------------------------------------------------------------------------------
 
 🏆 Awards:
-    → Student Innovator of the Year — NITI Aayog ATL Labs
-      Recognized for outstanding innovation in AI & Robotics
-
-    → Governor of Madhya Pradesh Award
-      Awarded for outstanding performance, discipline, and consistent excellence
+    → NITI Aayog Student Innovator Award (2020)
+    → Awarded by Governor of Madhya Pradesh
 
 📜 Certifications:
     → Crash Course on Python — Google
