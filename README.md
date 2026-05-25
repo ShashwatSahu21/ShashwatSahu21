@@ -100,26 +100,22 @@ Fun.Fact:            Won "Student Innovator of the Year" from NITI Aayog ATL Lab
   <img src="https://capsule-render.vercel.app/api?type=waving&text=Experience&fontSize=45&color=0:0a0a1a,50:1a0a2e,100:00d4ff&animation=fadeIn&fontColor=ffffff" />
 </p>
 
-```csharp
-Career.Log ver. 6.0.4:
-----------------------------------------------------------------------------------------
+> 🔹 **AI & Robotics Operations Manager Intern**
+> &nbsp;&nbsp;&nbsp;&nbsp;*Incanto Dynamics Pvt. Ltd.* &nbsp;|&nbsp; `Jan 2026 – Present`
+> &nbsp;&nbsp;&nbsp;&nbsp;↳ *Leading on-ground deployment, testing, and integration of industrial robotic systems and AI-driven operations within active factory environments.*
+>
+> <br>
+>
+> 🔹 **Artificial Intelligence Intern**
+> &nbsp;&nbsp;&nbsp;&nbsp;*1Stop.ai* &nbsp;|&nbsp; `Apr 2024 – Jun 2024`
+> &nbsp;&nbsp;&nbsp;&nbsp;↳ *Trained, evaluated, and benchmarked machine learning models, integrating AI features into production workflows via API endpoints.*
+>
+> <br>
+>
+> 🔹 **Club Operations Lead & Technical Team Manager**
+> &nbsp;&nbsp;&nbsp;&nbsp;*Robotics Cell, BIT* &nbsp;|&nbsp; `Jan 2024 – Jan 2025`
+> &nbsp;&nbsp;&nbsp;&nbsp;↳ *Directed student robotics teams through physical bot build cycles, managed hackathon participations, and mentored juniors on embedded systems.*
 
-Incanto Dynamics Pvt. Ltd. — AI & Robotics Operations Manager Intern (Jan 2026 – Present):
-    Working on live industrial robotics and automation projects within active
-    factory environments. Supporting on-ground deployment, testing, and integration
-    of robotic and AI-driven operational systems. Coordinating with engineering
-    teams to ensure technical specifications, safety standards, and protocols.
-
-1Stop.ai — Artificial Intelligence Intern (Apr 2024 – Jun 2024):
-    Trained and evaluated AI models using structured datasets. End-to-end
-    understanding of model development, validation, and performance benchmarking.
-    Integrated AI features via API-based connections with deployment workflows.
-
-Robotics Cell, BIT — Club Operations Lead & Technical Team Manager (Jan 2024 – Jan 2025):
-    Led a student robotics team through end-to-end physical bot build cycles.
-    Managed participation in multiple hackathons and aerothons. Mentored juniors
-    on embedded systems, bot assembly, and robotics fundamentals.
-```
 
 ---
 
