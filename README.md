@@ -106,7 +106,7 @@ Education:           BE, Robotics & Artificial Intelligence
 > <br>
 >
 > 🔹 **Artificial Intelligence Intern**
-> &nbsp;&nbsp;&nbsp;&nbsp;*[1Stop.ai](https://1stop.ai/)* &nbsp;|&nbsp; `Apr 2024 – Jun 2024`
+> &nbsp;&nbsp;&nbsp;&nbsp;*[1Stop.ai](https://1stop.ai/)* &nbsp;|&nbsp; `Apr 2024 – Jun 2024` &nbsp;|&nbsp; [📜 Certificate](https://drive.google.com/file/d/1W1QqWaOOhBlOH0WjDgjs2MTDqJ0SEF17/view?usp=drive_link)
 > &nbsp;&nbsp;&nbsp;&nbsp;↳ *Trained, evaluated, and benchmarked machine learning models, integrating AI features into production workflows via API endpoints.*
 >
 > <br>
